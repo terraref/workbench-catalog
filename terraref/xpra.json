@@ -1,0 +1,36 @@
+{
+    "key": "xpraterra",
+    "label": "Visualization tools",
+    "description": "Xpra container containing visualization tools",
+    "logo": "/asset/png/logos/netcdf.png",
+    "image": {
+        "registry": "",
+        "name": "terraref/xpra-terraref",
+        "tags": [
+            "latest"
+        ]
+    },
+    "display": "stack",
+    "access": "external",
+    "ports": [
+        {
+            "port": 10000,
+            "protocol": "http",
+            "contextPath": "/"
+        }
+    ],
+    "readinessProbe": {
+        "type": "",
+        "path": "",
+        "port": 0,
+        "initialDelay": 0,
+        "timeout": 0
+    },
+    "resourceLimits": {
+        "cpuMax": 500,
+        "cpuDefault": 100,
+        "memMax": 1000,
+        "memDefault": 50
+    },
+    "authRequired": true
+}
