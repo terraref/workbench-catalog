@@ -18,7 +18,7 @@
         }
     ],
     "volumeMounts":[
-       { "mountPath": "/workspace" }
+       { "mountPath": "/workspace", "defaultPath": "/" }
     ],
     "readinessProbe" : {
         "type" : "http",
