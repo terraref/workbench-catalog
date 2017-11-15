@@ -27,9 +27,9 @@
         "timeout": 0
     },
     "resourceLimits": {
-        "cpuMax": 500,
+        "cpuMax": 2000,
         "cpuDefault": 100,
-        "memMax": 1000,
+        "memMax": 8000,
         "memDefault": 50
     },
     "authRequired": true
