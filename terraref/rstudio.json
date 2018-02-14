@@ -1,7 +1,7 @@
 {
     "key": "rstudio",
     "label": "RStudio Server",
-    "description": "RStudio Server with TERRA dependencies",
+    "description": "RStudio Server",
     "logo": "/asset/png/logos/rstudio-logo.png",
     "image": {
         "name": "terraref/rstudio-terraref",
@@ -16,8 +16,7 @@
             "port": 8787,
             "protocol": "http",
             "contextPath": "/"
-        }
-    ],
+        } ],
     "repositories": [
         {
             "url": "https://github.com/rstudio/rstudio",

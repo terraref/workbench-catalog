@@ -1,7 +1,7 @@
 {
     "key": "jupyterterra",
-    "label": "Jupyter/TERRA",
-    "description": "Jupyter SciPy Notebook with TERRA dependencies",
+    "label": "Jupyter",
+    "description": "Jupyter SciPy Notebook with NetCDF/GDAL dependencies",
     "logo": "/asset/png/logos/jupyter-logo.png",
     "image": {
         "name": "terraref/jupyter-terraref",
@@ -42,6 +42,5 @@
         "memMax": 8000,
         "memDefault": 50
     },
-    "info" : "https://nationaldataservice.atlassian.net/wiki/display/NDSC/Jupyter+Notebooks",
-    "tags": ["7", "21", "20", "28"]
+    "info" : "https://nationaldataservice.atlassian.net/wiki/display/NDSC/Jupyter+Notebooks"
 }
