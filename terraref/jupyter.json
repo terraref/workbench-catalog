@@ -1,7 +1,7 @@
 {
     "key": "jupyterterra",
     "label": "Jupyter",
-    "description": "Jupyter SciPy Notebook with NetCDF/GDAL dependencies",
+    "description": "Jupyter SciPy Notebook with Python and Octave kernels, NetCDF/GDAL dependencies",
     "logo": "/asset/png/logos/jupyter-logo.png",
     "image": {
         "name": "terraref/jupyter-terraref",
@@ -42,5 +42,5 @@
         "memMax": 8000,
         "memDefault": 50
     },
-    "info" : "https://nationaldataservice.atlassian.net/wiki/display/NDSC/Jupyter+Notebooks"
+    "info" : "https://github.com/terraref/workbench-catalog/blob/datadrivenag/terraref/jupyter.md"
 }

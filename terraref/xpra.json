@@ -1,8 +1,8 @@
 {
     "key": "xpraterra",
     "label": "Visualization tools",
-    "description": "Xpra container containing visualization tools",
-    "logo": "https:/www.workbench.terraref.org/asset/png/logos/netcdf.png",
+    "description": "Remote desktop environment with visualization tools including QGIS and Panopoly",
+    "logo": "https://www.workbench.terraref.org/asset/png/logos/netcdf.png",
     "image": {
         "registry": "",
         "name": "terraref/xpra-terraref",
@@ -32,5 +32,6 @@
         "memMax": 8000,
         "memDefault": 50
     },
-    "authRequired": true
+    "authRequired": true,
+	"info": "https://github.com/terraref/workbench-catalog/blob/datadrivenag/terraref/xpra.md"
 }

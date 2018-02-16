@@ -2,7 +2,7 @@
     "key": "pgstudio",
     "label": "PostgresSQL Studio",
     "logo": "/asset/png/logos/postgres-logo.png",
-    "description": "Web-based interface to PostgreSQL",
+    "description": "Web-based interface to PostgreSQL for access to BETYdb",
     "image": {
         "registry": "",
         "name": "lukasmartinelli/pgstudio",
@@ -32,5 +32,6 @@
         "memMax": 1000,
         "memDefault": 50
     },
-    "authRequired": true
+    "authRequired": true,
+	"info": "https://github.com/terraref/workbench-catalog/blob/datadrivenag/postgres/pgstudio.md"
 }

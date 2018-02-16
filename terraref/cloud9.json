@@ -7,7 +7,7 @@
 	}, 
     "display": "stack",
     "access": "external",
-    "description": "IDE with python, gcc, octave",
+    "description": "General-purpose editor with python, gcc, octave support",
     "logo" : "/asset/png/logos/python-logo.png",
     "authRequired": true,
     "ports": [
@@ -32,6 +32,6 @@
         "memMax": 8000,
         "memDefault": 50
     },
-	"info" : "https://nationaldataservice.atlassian.net/wiki/display/NDSC/Cloud9",
+	"info" : "https://github.com/terraref/workbench-catalog/blob/datadrivenag/terraref/cloud9.md",
 	"tags" : ["7", "20"]
 }

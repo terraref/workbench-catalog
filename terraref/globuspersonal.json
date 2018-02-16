@@ -1,7 +1,7 @@
 {
-    "key": "globusconnect",
+    "key": "globuspersonal",
     "label": "Globus Connect",
-    "description": "Launch a Globus Endpoint",
+    "description": "Launch a Globus Personal Endpoint",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4okBXwGGU3GEKEfTCRNuZW_geJCArj8k_T5r_7Iq4bUPZEVPMUg",
     "image": {
         "registry": "",
@@ -43,6 +43,6 @@
         "20",
         "28"
     ],
-    "info": "https://nationaldataservice.atlassian.net/wiki/display/NDSC/Jupyter+Notebooks",
+    "info": "https://github.com/terraref/workbench-catalog/blob/datadrivenag/terraref/globuspersonal.md",
     "authRequired": true
 }
