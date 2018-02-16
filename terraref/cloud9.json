@@ -3,7 +3,7 @@
     "label": "Cloud9 IDE",
     "image": {
 		"name": "terraref/cloud9-terra",
-		"tags": ["latest"]
+		"tags": ["datadrivenag"]
 	}, 
     "display": "stack",
     "access": "external",
