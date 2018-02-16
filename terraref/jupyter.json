@@ -4,7 +4,7 @@
     "description": "Jupyter SciPy Notebook with Python and Octave kernels, NetCDF/GDAL dependencies",
     "logo": "/asset/png/logos/jupyter-logo.png",
     "image": {
-        "name": "terraref/jupyter-terraref",
+        "name": "terraref/jupyter-terra",
         "tags": [
             "datadrivenag"
         ]
