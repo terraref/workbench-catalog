@@ -1,7 +1,7 @@
 {
     "key": "rstudio",
     "label": "RStudio Server",
-    "description": "RStudio Server",
+    "description": "RStudio server with geospatial libraries and python. Username/password is rstudio:rstudio",
     "logo": "/asset/png/logos/rstudio-logo.png",
     "image": {
         "name": "terraref/rstudio-terraref",
