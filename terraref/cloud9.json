@@ -32,6 +32,6 @@
         "memMax": 8000,
         "memDefault": 50
     },
-	"info" : "https://github.com/terraref/workbench-catalog/blob/datadrivenag/terraref/cloud9.md",
+	"info" : "https://github.com/datadrivenag/tutorials/blob/master/workbench.md",
 	"tags" : ["7", "20"]
 }

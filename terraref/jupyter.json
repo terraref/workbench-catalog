@@ -42,5 +42,5 @@
         "memMax": 8000,
         "memDefault": 50
     },
-    "info" : "https://github.com/terraref/workbench-catalog/blob/datadrivenag/terraref/jupyter.md"
+    "info" : "https://github.com/datadrivenag/tutorials/blob/master/workbench.md"
 }

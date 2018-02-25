@@ -43,5 +43,5 @@
     },
     "tags": [ "7", "28", "40" ],
 	"authRequired": true,
-    "info": "https://github.com/terraref/workbench-catalog/blob/datadrivenag/terraref/rstudio.md"
+    "info": "https://github.com/datadrivenag/tutorials/blob/master/workbench.md"
 }

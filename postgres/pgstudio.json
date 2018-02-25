@@ -33,5 +33,5 @@
         "memDefault": 50
     },
     "authRequired": true,
-	"info": "https://github.com/terraref/workbench-catalog/blob/datadrivenag/postgres/pgstudio.md"
+	"info": "https://github.com/datadrivenag/tutorials/blob/master/workbench.md"
 }
