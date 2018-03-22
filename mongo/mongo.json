@@ -11,9 +11,6 @@
     "ports": [
         { "port": 27017, "protocol": "tcp" }
     ],
-    "volumeMounts":[
-        { "mountPath": "/data/db" }
-    ],
     "resourceLimits": {
         "cpuMax": 500,
         "cpuDefault": 100,
