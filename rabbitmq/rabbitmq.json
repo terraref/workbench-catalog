@@ -8,7 +8,6 @@
 		"name" : "rabbitmq", 
 		"tags" : ["3.6.1-management"]
 	},
-	"display": "standalone",
 	"access": "external",
     "ports": [
         { "port": 5672, "protocol": "tcp" },
