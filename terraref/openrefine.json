@@ -2,7 +2,7 @@
     "key": "openrefine",
     "label": "OpenRefine",
     "description": "A free, open source, power tool for working with messy data",
-    "logo": "https://archive.bigdatauniversity.com/bdu-wp/wp-content/uploads/2015/09/OpenRefine-BDU-logo-150x150.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Google-refine-logo.svg/2000px-Google-refine-logo.svg.png",
     "image": {
         "registry": "",
         "name": "felixlohmeier/openrefine",
