@@ -11,6 +11,17 @@
     },
     "display": "stack",
     "access": "external",
+    "config": [
+        {
+            "name": "DISABLE_AUTH",
+            "value": "true"
+        },
+        {
+            "name": "PASSWORD",
+            "value": "terraref",
+            "isPassword": true
+        }
+    ],
     "ports": [
         {
             "port": 8787,
@@ -33,7 +44,8 @@
     },
     "volumeMounts": [
         {
-            "mountPath": "/home/rstudio", "defaultPath" : "/"
+            "mountPath": "/home/rstudio",
+            "defaultPath": "/"
         }
     ],
     "resourceLimits": {
@@ -43,6 +55,6 @@
         "memDefault": 50
     },
     "tags": [ "7", "28", "40" ],
-	"authRequired": true,
-    "info": "https://nationaldataservice.atlassian.net/wiki/display/NDSC/RStudio"
+    "info": "https://nationaldataservice.atlassian.net/wiki/display/NDSC/RStudio",
+    "authRequired": true
 }
