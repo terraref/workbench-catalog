@@ -8,7 +8,7 @@
     "display": "stack",
     "access": "external",
     "description": "Python development environment with pyClowder and TERRA dependencies",
-    "logo" : "https://github.com/nds-org/ndslabs-specs/blob/2.0.0/devenvs/python-logo.png",
+    "logo" : "https://github.com/nds-org/ndslabs-specs/raw/2.0.0/devenvs/python-logo.png",
     "authRequired": true,
     "ports": [
         {
