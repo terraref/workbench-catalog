@@ -2,7 +2,7 @@
     "key": "xpraterra",
     "label": "Visualization tools",
     "description": "Xpra container containing visualization tools",
-    "logo": "/asset/png/logos/netcdf.png",
+    "logo": "https://github.com/terraref/workbench-catalog/raw/master/terraref/netcdf-logo.png",
     "image": {
         "registry": "",
         "name": "terraref/xpra-terraref",

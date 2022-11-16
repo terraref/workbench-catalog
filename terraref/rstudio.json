@@ -2,7 +2,7 @@
     "key": "rstudio",
     "label": "RStudio Server",
     "description": "RStudio Server with TERRA dependencies including R geospatial libraries and Python. When asked for username:password, first use your workbench credentials then rstudio:rstudio",
-    "logo": "/asset/png/logos/rstudio-logo.png",
+    "logo": "https://github.com/nds-org/ndslabs-specs/raw/2.0.0/rstudio/rstudio-logo.png",
     "image": {
         "name": "terraref/rstudio-terraref",
         "tags": [

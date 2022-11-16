@@ -2,7 +2,7 @@
     "key": "jupyterterra",
     "label": "Jupyter/TERRA",
     "description": "Jupyter SciPy Notebook with TERRA dependencies",
-    "logo": "/asset/png/logos/jupyter-logo.png",
+    "logo": "https://github.com/nds-org/ndslabs-specs/raw/2.0.0/jupyter/jupyter-logo.png",
     "image": {
         "name": "terraref/jupyter-terraref",
         "tags": [

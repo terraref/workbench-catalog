@@ -2,7 +2,7 @@
     "key": "openrefine",
     "label": "OpenRefine",
     "description": "A free, open source, power tool for working with messy data",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Google-refine-logo.svg/2000px-Google-refine-logo.svg.png",
+    "logo": "https://github.com/terraref/workbench-catalog/raw/master/terraref/openrefine-logo.png",
     "image": {
         "registry": "",
         "name": "felixlohmeier/openrefine",
